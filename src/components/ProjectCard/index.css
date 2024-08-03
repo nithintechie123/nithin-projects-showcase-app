@@ -1,0 +1,17 @@
+.project-item-container {
+  margin: 10px;
+  border-radius: 8px;
+  box-shadow: 1px 1px 5px 0.5px #475569;
+}
+
+.project-image {
+  width: 200px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+.project-name {
+  font-family: 'Roboto';
+  color: #475569;
+  font-weight: 500;
+  text-align: center;
+}
